@@ -47,3 +47,7 @@ It's in this step that you can select the subject, for instance:
 
 
 
+## Scheduling thoughts
+For my use case, it's not critical to know on the second when there's a new SHIR release.
+
+This pipeline runs in my environment every 12 hours, and I believe that's enough, it could even go with running once a day. 
