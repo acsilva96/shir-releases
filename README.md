@@ -1,6 +1,6 @@
 # shir-releases
 
-This projects describes an automation to use Microsoft Fabric to get notified about new SHIR releases, and to have delivered via email/ms teams its content.
+This projects describes an automation to use Microsoft Fabric to get notified about new Azure Data Factory (and Azure Synapse Analytics) SHIR releases, and to have delivered via email/ms teams its content.
 
 *Pseudo logic:*
 1. Download SHIR notes (https://www.microsoft.com/en-us/download/details.aspx?id=39717) into a MS Fabric lakehouse
