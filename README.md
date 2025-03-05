@@ -16,7 +16,7 @@ This projects describes an automation to use Microsoft Fabric to get notified ab
 2. Create a Data pipeline to orchestrate the logic  
 ![Alt text](img/2.png)
 
-3. Import the pipeline template  
+3. Import the pipeline template  (pipeline-to-orchestrate.zip)
 ![Alt text](img/3.png)  
 This is how it looks like:  
 ![Alt text](img/4.png)
